@@ -1,4 +1,14 @@
-## Hi there 👋
+## ⚛️ Kateryna Havryshchuk | Physics & Mathematics @ Amherst College
+
+**DOE-Approved User @ Fermilab | Undergraduate Researcher**
+
+🔭 **Current Research:** Developing radiation damage simulations for the Mu2e project at Fermilab (FLUKA + ANSYS).
+
+🧪 **Previous Work:** Quantum simulations of Bose-Einstein Condensates and MCMC-based stellar orbit modeling.
+
+💻 **Technical Stack:** Python (NumPy, SciPy, Matplotlib), C++, LaTeX, and Linux-based HPC environments.
+
+🎯 **Goal:** Pursuing Nuclear Energy Engineering to build resilient energy infrastructure.
 
 <!--
 **katerynahavryshchuk/katerynahavryshchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
